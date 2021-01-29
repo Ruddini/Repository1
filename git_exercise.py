@@ -1,0 +1,1 @@
+print ("Monisia, piękna patysia")
